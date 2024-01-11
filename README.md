@@ -2,6 +2,8 @@
 
 This is where I save code for my computer engineering class, feel free to copy for your own classes
 
+#About Me
+
 
 
 [Youtube Channel Link (dont click)](https://www.youtube.com/channel/UCjZTgRlU4NqUOzHSxzx-uzA)
